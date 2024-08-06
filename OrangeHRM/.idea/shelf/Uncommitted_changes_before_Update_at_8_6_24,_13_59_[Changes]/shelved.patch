@@ -1,0 +1,21 @@
+Index: .gitignore
+===================================================================
+diff --git a/.gitignore b/.gitignore
+deleted file mode 100644
+--- a/.gitignore	(revision 896a96adff56dfd1bb8212d669b08fece75f9ca3)
++++ /dev/null	(revision 896a96adff56dfd1bb8212d669b08fece75f9ca3)
+@@ -1,14 +0,0 @@
+-# Игнорировать файлы .DS_Store
+-.DS_Store
+-
+-# Игнорировать файлы Python
+-__pycache__/
+-*.pyc
+-*.pyo
+-
+-# Игнорировать виртуальные окружения
+-venv/
+-env/
+-
+-# Добавь другие файлы и папки, которые нужно игнорировать
+-
