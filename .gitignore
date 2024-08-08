@@ -1,10 +1,10 @@
-# Игнорировать папку виртуального окружения
+# Ignore the virtual environment folder
 venv/
 
-# Игнорировать файлы .DS_Store (для macOS)
+# Ignore .DS_Store files (for macOS)
 .DS_Store
 
-# Другие правила игнорирования
+# Other ignore rules
 __pycache__/
 *.pyc
 *.pyo
